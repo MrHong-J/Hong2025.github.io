@@ -2,9 +2,13 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme 
 title: Hong Junyang
-description: M.S. in Data Science | B.E. in Computer Science
+description: M.S. in Data Science(The University of Hong Kong) | B.E. in Computer Science(Beijing Jiaotong University)
 show_downloads: false
 google_analytics: false
 theme: jekyll-theme-minimal
+
+url: "https://mrhong-j.github.io/Hong2025.github.io/" 
+baseurl: "/another-page.html"                        # ✅ 根路径部署，不用子路径
+
 github:
   username: MrHong-J
