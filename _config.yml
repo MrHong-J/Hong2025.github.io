@@ -7,8 +7,8 @@ show_downloads: false
 google_analytics: false
 theme: jekyll-theme-minimal
 
-url: "https://mrhong-j.github.io/Hong2025.github.io" 
-baseurl: "another-page.html"                        # ✅ 根路径部署，不用子路径
+url: "https://mrhong-j.github.io" 
+baseurl: "/Hong2025.github.io"                        # ✅ 根路径部署，不用子路径
 
 github:
   username: MrHong-J
