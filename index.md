@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hong Junyang
+---
+
 # Hong Junyang
 
 📞 (+86) 15111538526  
@@ -33,6 +38,7 @@ GPA: 3.64 / 4.00 | Average: 86.3 / 100
 ## 💻 Project Experience
 
 ### Distributed Optical Fiber Acoustic Sensing System  
+
 *Graduation Project | 2024.09 – 2025.06*
 
 - Developed a real-time anomaly detection model for turnout tight contact
@@ -41,6 +47,7 @@ GPA: 3.64 / 4.00 | Average: 86.3 / 100
 - Built a web platform for real-time waveform and defect visualization
 
 ### Distributed Library Management System  
+
 *Group Project | 2024.09 – 2024.12*
 
 - Implemented metadata caching with Redis Cluster
@@ -48,6 +55,7 @@ GPA: 3.64 / 4.00 | Average: 86.3 / 100
 - Applied Nginx for load balancing
 
 ### "Learn with Me" App & Product Development  
+
 *Group Project | 03/2024 – 05/2024*
 
 - Developed RFID reader using ESP32/WROOM and MFRC522
@@ -55,6 +63,7 @@ GPA: 3.64 / 4.00 | Average: 86.3 / 100
 - Designed an NFC-based Chinese learning tool for kids
 
 ### FPS Shooting Game on Unreal Engine  
+
 *Group Leader | 09/2023 – 06/2024*
 
 - Led team in Unreal Engine game design
