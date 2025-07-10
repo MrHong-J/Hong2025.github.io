@@ -13,7 +13,7 @@ jobs:
           ruby-version: 3.2
           bundler-cache: true
       - name: Make script executable
-        run: chmod +x script/bootstrap script/cibuil
+        run: chmod +x script/bootstrap script/cibuild
       - name: build
         run: script/bootstrap
       - name: test
