@@ -1,123 +1,83 @@
+# Hong Junyang
+
+📞 (+86) 15111538526  
+📧 [h1844405119@outlook.com](mailto:h1844405119@outlook.com)  
+🌐 [GitHub: MrHong-J](https://github.com/MrHong-J)
+
 ---
-layout: default
+
+## 🎓 Education
+
+**University of Hong Kong (HKU)**  
+*M.S. in Data Science* — *Expected 09/2025*
+
+**Beijing Jiaotong University (BJTU)**  
+*B.E. in Computer Science and Technology*  
+GPA: 3.64 / 4.00 | Average: 86.3 / 100  
+*09/2021 – 06/2025*
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## 💼 Internship Experience
 
-[Link to another page](./another-page.html).
+**Weihai Institute for Bionics, Jilin University**  
+*Project Assistant | Aug 2023*
 
-There should be whitespace between paragraphs.
+- Collected and categorized research papers
+- Completed Andrew Ng’s machine learning course
+- Assisted in experiment setup and lab equipment maintenance
+- Summarized data and collaborated with teammates
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## 💻 Project Experience
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Distributed Optical Fiber Acoustic Sensing System  
+*Graduation Project | 2024.09 – 2025.06*
 
-## Header 2
+- Developed a real-time anomaly detection model for turnout tight contact
+- Extracted features from vibration signals using time/frequency domain analysis
+- Designed a multi-scale CNN + SVM hybrid model (98% accuracy)
+- Built a web platform for real-time waveform and defect visualization
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Distributed Library Management System  
+*Group Project | 2024.09 – 2024.12*
 
-### Header 3
+- Implemented metadata caching with Redis Cluster
+- Used Docker & MariaDB for multi-master sync and failover
+- Applied Nginx for load balancing
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### "Learn with Me" App & Product Development  
+*Group Project | 03/2024 – 05/2024*
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- Developed RFID reader using ESP32/WROOM and MFRC522
+- Coded with MicroPython, and built BLE communication
+- Designed an NFC-based Chinese learning tool for kids
 
-#### Header 4
+### FPS Shooting Game on Unreal Engine  
+*Group Leader | 09/2023 – 06/2024*
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- Led team in Unreal Engine game design
+- Designed animations, mechanics, and narrative
+- Optimized game performance
 
-##### Header 5
+---
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## 🏆 Achievements
 
-###### Header 6
+- **Academic Excellence Scholarship**, BJTU — *2023, 2024*  
+- **Provincial Second Prize**, China Mathematical Contest in Modeling — *2022*
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+---
 
-### There's a horizontal rule below this.
+## 🧠 Skills
 
-* * *
+- **Languages:** C++, Java (Spring Boot), Python (PyTorch), MATLAB  
+- **Tools:** GitHub, Unreal Engine, Docker, MariaDB, Redis, Nginx  
+- **Languages:** English (taught in English program)
 
-### Here is an unordered list:
+---
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+## 🎯 Hobbies
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Badminton, Basketball, Table Tennis
